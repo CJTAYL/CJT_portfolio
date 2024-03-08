@@ -22,9 +22,9 @@
 
 This project compared k-means clustering informed by an elbow plot and silhouette score when organizing data from the Seeds dataset in the University of California at Irvine's Machine Learning Repository.
 
-[GitHub](https://github.com/CJTAYL/kmeans_comparison)
+The code from this project was used to create a [tutorial](https://medium.com/towards-data-science/comparison-of-methods-to-inform-k-means-clustering-a830cdc8db50) that was published in Towards Data Science.
 
-[Article Published in Towards Data Science](https://medium.com/towards-data-science/comparison-of-methods-to-inform-k-means-clustering-a830cdc8db50)
+[GitHub](https://github.com/CJTAYL/kmeans_comparison)
 
 **Predicting Life Expectancy with Elastic-Net Regression** (Coming soon)
 
