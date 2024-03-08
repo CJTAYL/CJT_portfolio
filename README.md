@@ -12,12 +12,14 @@
 - M.S., Education | University of Kentucky (_December 2015_)
 - B.S., Psychology | University of Kentucky (_May 2008_)
 
-### Work Experience 
+## Work Experience 
 **Graduate Student @ University of Colorado Boulder (_June 2022 - March 2024_)**
+
 **Consultant @ Kind Behavioral Health (_November 2019 - June 2022_)**
 
-### Projects
+## Projects
 **Comparison of Methods to Inform K-Means**
+
 This project compared k-means clustering informed by an elbow plot and silhouette score when organizing data from the Seeds dataset in the University of California at Irvine's Machine Learning Repository.
 
 [GitHub](https://github.com/CJTAYL/kmeans_comparison)
@@ -36,6 +38,6 @@ This project compared k-means clustering informed by an elbow plot and silhouett
 
 [GitHub]
 
-### Social Media
+## Social Media
 - [Medium](https://medium.com/@cjtayl2)
 - [LinkedIn](https://www.linkedin.com/in/christopher-taylor-4b476a34/)
