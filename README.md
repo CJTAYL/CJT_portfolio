@@ -17,6 +17,7 @@
 
 ### Projects
 **Comparison of Methods to Inform K-Means**
+This project compared k-means clustering informed by an elbow plot and silhouette score when organizing data from the Seeds dataset in the University of California at Irvine's Machine Learning Repository.
 
 [GitHub](https://github.com/CJTAYL/kmeans_comparison)
 
