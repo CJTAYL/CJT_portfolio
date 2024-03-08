@@ -1,7 +1,6 @@
 # Data Scientist 
 
-- [Medium](https://medium.com/@cjtayl2)
-- [LinkedIn](https://www.linkedin.com/in/christopher-taylor-4b476a34/)
+**Interests:** Machine Learning, Statistics, 
 
 #### Technical Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,3 +16,7 @@
 **Consultant @ Kind Behavioral Health (_November 2019 - June 2022_)**
 
 ### Projects
+
+### Social Media
+- [Medium](https://medium.com/@cjtayl2)
+- [LinkedIn](https://www.linkedin.com/in/christopher-taylor-4b476a34/)
